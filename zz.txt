@@ -1,0 +1,4 @@
+public void run() {
+int a = 0;
+sout(a);
+}
